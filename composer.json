@@ -11,6 +11,12 @@
             "email": "ranva.rahul@gmail.com"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/rnv619/Yii-Extension.git"
+        }
+    ],
     "require": {
         "yiisoft/yii2": "*"
     },
