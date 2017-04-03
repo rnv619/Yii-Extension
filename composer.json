@@ -1,0 +1,21 @@
+{
+    "name": "rahul/yii2-helloworld",
+    "description": "Test Extension",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ranva Rahul",
+            "email": "ranva.rahul@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "rahul\\helloword\\": ""
+        }
+    }
+}
