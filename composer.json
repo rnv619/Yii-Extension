@@ -3,7 +3,7 @@
     "description": "Test Extension",
     "type": "yii2-extension",
     "keywords": ["yii2","extension"],
-    "license": "MIT",
+    "license": "BSD-3-Clause",
     "authors": [
         {
             "name": "Ranva Rahul",
